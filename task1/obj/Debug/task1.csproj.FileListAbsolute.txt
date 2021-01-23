@@ -1,0 +1,14 @@
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\task1.exe.config
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\task1.exe
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\task1.pdb
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\EntityFramework.dll
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\EntityFramework.xml
+C:\Users\Yura-PC\source\repos\task1\task1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.csproj.CopyComplete
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.exe
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.pdb
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.Migrations._1.resources
+C:\Users\Yura-PC\source\repos\task1\task1\obj\Debug\task1.csproj.GenerateResource.cache
